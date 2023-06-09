@@ -1,0 +1,19 @@
+{
+  "name": "SimpleCalculator",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Martin Prätzlich",
+    "email": "martin.praetzlich@rwu.de"
+  },
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "azure-functions-core-tools": "^4.x"
+  }
+}
